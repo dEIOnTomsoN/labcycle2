@@ -7,7 +7,7 @@ int main()
    scanf("%s", str1);
    printf("Enter second string: ");
    scanf("%s", str2);
-     while (str1[i] != '0') 
+     while (str1[i] != '\0') 
      {
         str3[j] = str1[i];
         i++;

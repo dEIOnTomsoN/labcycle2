@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-   char s1[100],s2[100],s3[100];
+   char str1[100],str2[100],str3[100];
    int i = 0, j = 0;
    printf("Enter first string: ");
    scanf("%s", str1);

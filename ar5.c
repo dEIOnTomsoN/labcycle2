@@ -21,10 +21,10 @@ int main()
 
     if (flag)
     {
-        printf("%s is  a palindrome\n", word);
+        printf("%s is not  a palindrome\n", word);
     }    
     else
     {
-        printf("%s is not a palindrome\n", word);
+        printf("%s is  a palindrome\n", word);
     }}
 

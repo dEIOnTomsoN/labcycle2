@@ -1,6 +1,5 @@
-#include <stdio.h>
-
-// function to get matrix elements entered by the user
+ar99    ahnn answer  
+n to get matrix elements entered by the user
 void getMatrixElements(int matrix[][10], int row, int column) {
 
    printf("\nEnter elements: \n");
@@ -13,8 +12,7 @@ void getMatrixElements(int matrix[][10], int row, int column) {
    }
 }
 
-// function to multiply two matrices
-void multiplyMatrices(int first[][10],
+// function to multtrices(int first[][10],
                       int second[][10],
                       int result[][10],
                       int r1, int c1, int r2, int c2) {

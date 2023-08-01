@@ -7,14 +7,14 @@ int main()
    scanf("%s", str1);
    printf("Enter second string: ");
    scanf("%s", str2);
-     while (str1[i] != '\0') 
+     while (str1[i] != '$') 
      {
         str3[j] = str1[i];
         i++;
         j++;
      }
       i = 0;
-          while (str2[i] != '\0') 
+          while (str2[i] != '$') 
           {
            str3[j] = str2[i];
                i++;
